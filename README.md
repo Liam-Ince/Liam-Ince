@@ -30,7 +30,7 @@ Smart Fitness Tracker App | https://github.com/Liam-Ince/WPR281-project |
  
 📄 CV
 
-
+CV | https://github.com/Liam-Ince/CV |
  
  
  
