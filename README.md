@@ -14,19 +14,19 @@ o        Tools: Git,Power BI, Arduino
 
  📂 Projects
  
- Year 1 Database Development project | https://github.com/Liam-Ince/DBD181-project |
+Chocolate Factory Database | https://github.com/Liam-Ince/DBD181-project |
  
- Year 1 Programming project | https://github.com/Liam-Ince/PRG182-project |
+RetroSlice Loyalty System | https://github.com/Liam-Ince/PRG182-project |
  
- Year 1 Web Programming project | https://github.com/Liam-Ince/WPR181-project |
+Responsive Portfolio Website | https://github.com/Liam-Ince/WPR181-project |
 
- Year 2 Database Development project | https://github.com/Liam-Ince/DBD281-project |
+Custom Relational Database System | https://github.com/Liam-Ince/DBD281-project |
  
- Year 2 Programming project 1 | https://github.com/Liam-Ince/PRG281-project | 
+C# Real-World Problem Solver | https://github.com/Liam-Ince/PRG281-project | 
 
- Year 2 Programming project 2 | https://github.com/Liam-Ince/PRG282-project | 
+Superhero Database System | https://github.com/Liam-Ince/PRG282-project | 
 
- Year 2 Web Programming project | https://github.com/Liam-Ince/WPR281-project |
+Smart Fitness Tracker App | https://github.com/Liam-Ince/WPR281-project |
  
  
  
