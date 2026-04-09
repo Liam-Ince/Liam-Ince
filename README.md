@@ -12,7 +12,9 @@ o        Programming: Java, C++, JavaScript, SQL
 
 o        Tools: Git,Power BI, Arduino
 
- 📂 Projects
+o        Web Programming: HTML, CSS
+
+📂 Projects
  
 Chocolate Factory Database | https://github.com/Liam-Ince/DBD181-project |
  
