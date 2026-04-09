@@ -1,4 +1,20 @@
-## Hi there 👋
+## Hi there, I am Liam Axel Ince 👋
+
+🎓 Bachelor of Computing in Software Engineering student at Belgium Campus ITversity.
+
+🌱 I am Passionate about IT, AI, software development and data science.
+
+💼 Seeking internship/ graduate opportunities in the field of software development or data science.
+
+🚀 Skills
+
+o        Programming: Java, C++, JavaScript, SQL
+
+o        Tools: Git,Power BI, Arduino
+
+ 📂 Projects
+ 
+
 
 <!--
 **Liam-Ince/Liam-Ince** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
