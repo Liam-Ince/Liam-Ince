@@ -21,7 +21,10 @@ o        Tools: Git,Power BI, Arduino
  Year 1 Web Programming project | https://github.com/Liam-Ince/WPR181-project |
 
  Year 2 Database Development project | https://github.com/Liam-Ince/DBD281-project |
+ 
  Year 2 Programming project 1 | https://github.com/Liam-Ince/PRG281-project | 
+
+ Year 2 Programming project 2 | https://github.com/Liam-Ince/PRG282-project | 
  
  
  
