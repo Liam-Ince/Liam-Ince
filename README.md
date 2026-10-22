@@ -8,11 +8,10 @@
 
 🚀 Skills
 
-o        Programming: Java, C++, JavaScript, SQL
+o        Programming: Java, C#, JavaScript, SQL, HTML, CSS, React, EJS, 
 
 o        Tools: Git,Power BI, Arduino
 
-o        Web Programming: HTML, CSS
 
 📂 Projects
  
@@ -29,6 +28,9 @@ C# Real-World Problem Solver | https://github.com/Liam-Ince/PRG281-project |
 Superhero Database System | https://github.com/Liam-Ince/PRG282-project | 
 
 Smart Fitness Tracker App | https://github.com/Liam-Ince/WPR281-project |
+
+For more projects related to my third year please visit my school account: https://github.com/LiamAxel3115 
+
  
 📄 CV
 
